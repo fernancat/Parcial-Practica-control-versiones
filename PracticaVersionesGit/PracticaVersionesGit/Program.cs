@@ -12,6 +12,7 @@ namespace PracticaVersionesGit
         {
             Console.WriteLine("Primer parcial programacion");
             Console.WriteLine("Primer cambio a la rama");
+            Console.WriteLine("segundo cambio a la rama");
 
         }
     }
